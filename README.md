@@ -20,7 +20,7 @@ O `ReportReader` é uma classe Python que permite ler um relatório CSV gerado p
 **Clone o repositório:**
 
 ```bash
-git https://github.com/OtavMacedo/binance_report_reader_py.git
+git clone https://github.com/OtavMacedo/binance_report_reader_py.git
 ```
 
 ### Exemplo de Uso:
