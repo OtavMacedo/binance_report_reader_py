@@ -142,5 +142,5 @@ class ReportReader:
         print('brl gasto:', round(self._brl_spent, 2))
 
 # Exemplo de uso
-report = ReportReader('C:\\Users\\otavi\\Projetos\\binance_report_reader_py\\0e4e8d46-37d9-11ef-925b-0695fa030f45-1.csv')
-report.display_values()
+# report = ReportReader("caminho/para/seu/arquivo.csv")
+# report.display_values()
